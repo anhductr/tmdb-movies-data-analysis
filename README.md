@@ -57,13 +57,15 @@ Project giải quyết 7 yêu cầu:
 
 ```text
 TMDB-Movies-Project/
+├── data/
+│   ├── tmdb-movies.csv
+│   ├── tmdb-movies-clean.csv
+│   ├── movies_sorted.csv
+│   ├── movies_rating_above_7.5.csv
+│   └── top10_profit.csv
 ├── preprocess.sh
 ├── q1_q7.sh
-├── tmdb-movies.csv
-├── tmdb-movies-clean.csv
-├── movies_sorted.csv
-├── movies_rating_above_7.5.csv
-└── top10_profit.csv
+└── README.md
 ```
 
 ## 7. Hướng dẫn chạy

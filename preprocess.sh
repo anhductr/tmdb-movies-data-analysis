@@ -42,4 +42,5 @@ awk '
 
     record = ""
 }
-' tmdb-movies.csv > tmdb-movies-clean.csv
+' data/tmdb-movies.csv > data/tmdb-movies-clean.csv
+
